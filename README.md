@@ -10,79 +10,54 @@ Instructions are provided here. Contact hahnp at ccf.org if you have any questio
 
 - readme.txt  
   This file
-
 - pSTN.tem  
   STN neuron template
-
 - pGPeA.tem  
   GPe neuron template
-
 - pGPi.tem  
   GPi neuron template
-
 - pSTN.mod  
   STN kinetics
-
 - pGPeA.mod  
   GPe/GPi kinetics
-
 - ampap.mod  
   Glutamatergic synapse
-
 - gabaap.mod  
   Gabaergic synapse
-
 - dbsStim.mod  
   Stimulation induced current mechanism
-
 - twoStateGen.mod  
   Generate stochastic, bursting trains
-
 - scopRandom.mod  
   Hook scop_random RNG
-
 - myions.mod  
   Allow initialization of ion concentrations
-
 - pBGconst.hoc  
   Parameter handling support
-
 - pBGbias.hoc  
   Bias current support
-
 - pBGconnect1.hoc  
   Synaptic connections support
-
 - pBGinput.hoc  
   Support for generation of input spike trains
-
 - pBGstim.hoc  
   DBS stim current support
-
 - pBGrecord.hoc  
   Allow recording of overall GPi axonal output
-
 - pBGutil.hoc  
   General support
-
 - pBGburstSearch.hoc  
   Burst detection algorithm
-
 - pBGconfData.hoc  
   Simulation run script support
-
 - parBGLaunch.hoc  
   Main program file, launches simulation run scripts
-
 - pBGLaunch.000  
   Sample simulation run script
-
 - pPARrun.txt  
   Default parameter settings (MPTP state)
-
 - pNets.dat  
   Published parameter set (best match)
-
 - randseed.txt  
   Random seed updated after each run
 
